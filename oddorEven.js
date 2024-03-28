@@ -2,8 +2,8 @@
 
 for (let num = 0; num <= 15; num++) {
     if (num % 2 === 0) {
-        console.log(i + " is a even number");
+        console.log(num + " is a even number");
     } else {
-        console.log(i + " is a odd number");
+        console.log(num + " is a odd number");
     }
 }
